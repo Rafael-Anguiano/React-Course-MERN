@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in GifGrid Component should match with snapshot 1`] = `
+<Fragment>
+  <h3>
+    HxH
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    className="card-grid animate_animated animate__fadeInDown animate__delay-5s"
+  />
+</Fragment>
+`;
